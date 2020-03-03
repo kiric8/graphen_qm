@@ -3,7 +3,11 @@ import os
 import shutil
 
 
-MARAMARA
+#MARAMARA
+
+#=======
+#bla bla
+
 
 from ase.lattice.hexagonal import *
 from ase.calculators.dftb import Dftb
