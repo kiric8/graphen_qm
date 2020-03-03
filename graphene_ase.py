@@ -2,6 +2,9 @@
 import os
 import shutil
 
+
+MARAMARA
+
 from ase.lattice.hexagonal import *
 from ase.calculators.dftb import Dftb
 from ase.io import write
